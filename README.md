@@ -1,2 +1,3 @@
 # hello-world
-first turn
+
+Now I'm truyng to get selfprepared to use GetHub.
